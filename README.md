@@ -1,5 +1,5 @@
 
-# Hi there, I'm Nikita - aka [Nikitich2033] 👋 
+# Hi there, I'm Nikita - aka Nikitich2033 👋 
 
 ## :zap: Wakatime Stats
 
