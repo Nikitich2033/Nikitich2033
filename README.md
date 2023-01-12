@@ -7,6 +7,3 @@
 
   [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikitich2033&layout=compact&theme=algolia)](https://github.com/Nikitich2033)
 
-## :zap: GitHub Contributions
-
-   [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikitich2033&show_icons=true&count_private=true&theme=algolia)](https://github.com/Nikitich2033)
