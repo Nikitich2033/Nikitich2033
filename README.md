@@ -1,6 +1,6 @@
 # Hi, I’m Nikita (`Nikitich2033`) Lyakhovoy
 
-Junior software engineer focused on fintech, ML, and blockchain. MSc Financial Technology (UCL) and BSc Computer Science with AI (KCL).
+Junior software engineer focused on fintech, AI/ML, and blockchain. MSc Financial Technology (UCL) and BSc Computer Science with AI (KCL).
 ## Stack
 
 **Python**, **TypeScript/JavaScript**, Java, C#, SQL · FastAPI, Django, Node · React/Vite · pandas/NumPy/scikit-learn · Solidity/Hardhat, sCrypt (BSV), FunC (TON) · CCXT · GitHub Actions, Docker, Linux.
