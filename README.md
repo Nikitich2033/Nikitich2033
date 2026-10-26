@@ -1,5 +1,7 @@
 # Hi, I’m Nikita (`Nikitich2033`) Lyakhovoy
 
+[![Certified Thinker](https://meatproxy.me/badge/c/9t3m9.svg)](https://meatproxy.me/c/9t3m9)
+
 Junior software engineer focused on fintech, AI/ML, and blockchain. MSc Financial Technology (UCL) and BSc Computer Science with AI (KCL).
 ## Stack
 
